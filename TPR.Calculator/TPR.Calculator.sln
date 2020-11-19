@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.Calculator.UI", "TPR.Calculator.UI\TPR.Calculator.UI.csproj", "{90BC479B-322F-453C-8F9F-1D7593CA1BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.Calculator.BL", "TPR.Calculator.BL\TPR.Calculator.BL.csproj", "{030B7D67-F032-49BC-8FA8-4B7094417009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BC479B-322F-453C-8F9F-1D7593CA1BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BC479B-322F-453C-8F9F-1D7593CA1BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BC479B-322F-453C-8F9F-1D7593CA1BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BC479B-322F-453C-8F9F-1D7593CA1BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030B7D67-F032-49BC-8FA8-4B7094417009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030B7D67-F032-49BC-8FA8-4B7094417009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030B7D67-F032-49BC-8FA8-4B7094417009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030B7D67-F032-49BC-8FA8-4B7094417009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://reganstudent.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TPR.Calculator.UI\\TPR.Calculator.UI.csproj
+		SccProjectName1 = TPR.Calculator.UI
+		SccLocalPath1 = TPR.Calculator.UI
+		SccProjectUniqueName2 = TPR.Calculator.BL\\TPR.Calculator.BL.csproj
+		SccProjectName2 = TPR.Calculator.BL
+		SccLocalPath2 = TPR.Calculator.BL
+	EndGlobalSection
+EndGlobal

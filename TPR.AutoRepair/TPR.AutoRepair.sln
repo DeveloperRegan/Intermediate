@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair.UI", "RDA.AutoRepair.UI\TPR.AutoRepair.UI.csproj", "{9F58AD08-E4A0-42B3-87E7-FBD6DA8A47D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair.BL", "RDA.AutoRepair.BL\TPR.AutoRepair.BL.csproj", "{96DA3CCB-A326-4E96-84AC-4EB3A899327D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutroRepair.Test.BL", "RDA.AutroRepair.Test.BL\TPR.AutroRepair.Test.BL.csproj", "{768598E1-EA2A-49F0-9362-73FCE1ACAE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair.PL", "TPR.AutoRepair.PL\TPR.AutoRepair.PL.csproj", "{B6A64CA3-29C5-45FC-B833-7A7F487BFDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F58AD08-E4A0-42B3-87E7-FBD6DA8A47D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F58AD08-E4A0-42B3-87E7-FBD6DA8A47D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F58AD08-E4A0-42B3-87E7-FBD6DA8A47D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F58AD08-E4A0-42B3-87E7-FBD6DA8A47D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DA3CCB-A326-4E96-84AC-4EB3A899327D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DA3CCB-A326-4E96-84AC-4EB3A899327D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DA3CCB-A326-4E96-84AC-4EB3A899327D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DA3CCB-A326-4E96-84AC-4EB3A899327D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768598E1-EA2A-49F0-9362-73FCE1ACAE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768598E1-EA2A-49F0-9362-73FCE1ACAE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768598E1-EA2A-49F0-9362-73FCE1ACAE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768598E1-EA2A-49F0-9362-73FCE1ACAE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A64CA3-29C5-45FC-B833-7A7F487BFDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A64CA3-29C5-45FC-B833-7A7F487BFDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A64CA3-29C5-45FC-B833-7A7F487BFDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A64CA3-29C5-45FC-B833-7A7F487BFDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://reganstudent.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RDA.AutoRepair.BL\\TPR.AutoRepair.BL.csproj
+		SccProjectName1 = RDA.AutoRepair.BL
+		SccLocalPath1 = RDA.AutoRepair.BL
+		SccProjectUniqueName2 = RDA.AutoRepair.UI\\TPR.AutoRepair.UI.csproj
+		SccProjectName2 = RDA.AutoRepair.UI
+		SccLocalPath2 = RDA.AutoRepair.UI
+		SccProjectUniqueName3 = RDA.AutroRepair.Test.BL\\TPR.AutroRepair.Test.BL.csproj
+		SccProjectName3 = RDA.AutroRepair.Test.BL
+		SccLocalPath3 = RDA.AutroRepair.Test.BL
+		SccProjectUniqueName4 = TPR.AutoRepair.PL\\TPR.AutoRepair.PL.csproj
+		SccProjectName4 = TPR.AutoRepair.PL
+		SccLocalPath4 = TPR.AutoRepair.PL
+	EndGlobalSection
+EndGlobal

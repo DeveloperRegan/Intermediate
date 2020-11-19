@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair2.UI", "TPR.AutoRepair2.UI\TPR.AutoRepair2.UI.csproj", "{C9C35FCB-06B4-471A-896F-D93461BABB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair.BL", "TPR.AutoRepair.BL\TPR.AutoRepair.BL.csproj", "{23E7DAA5-9E5C-405A-A057-AC3B306CCDC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.AutoRepair.Test.BL", "TPR.AutoRepair.Test.BL\TPR.AutoRepair.Test.BL.csproj", "{5E2EF8DE-D107-4A05-A020-0ABDA4B9E83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C35FCB-06B4-471A-896F-D93461BABB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C35FCB-06B4-471A-896F-D93461BABB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C35FCB-06B4-471A-896F-D93461BABB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C35FCB-06B4-471A-896F-D93461BABB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E7DAA5-9E5C-405A-A057-AC3B306CCDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E7DAA5-9E5C-405A-A057-AC3B306CCDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E7DAA5-9E5C-405A-A057-AC3B306CCDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E7DAA5-9E5C-405A-A057-AC3B306CCDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2EF8DE-D107-4A05-A020-0ABDA4B9E83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2EF8DE-D107-4A05-A020-0ABDA4B9E83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2EF8DE-D107-4A05-A020-0ABDA4B9E83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2EF8DE-D107-4A05-A020-0ABDA4B9E83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://reganstudent.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TPR.AutoRepair.BL\\TPR.AutoRepair.BL.csproj
+		SccProjectName1 = TPR.AutoRepair.BL
+		SccLocalPath1 = TPR.AutoRepair.BL
+		SccProjectUniqueName2 = TPR.AutoRepair.Test.BL\\TPR.AutoRepair.Test.BL.csproj
+		SccProjectName2 = TPR.AutoRepair.Test.BL
+		SccLocalPath2 = TPR.AutoRepair.Test.BL
+		SccProjectUniqueName3 = TPR.AutoRepair2.UI\\TPR.AutoRepair2.UI.csproj
+		SccProjectName3 = TPR.AutoRepair2.UI
+		SccLocalPath3 = TPR.AutoRepair2.UI
+	EndGlobalSection
+EndGlobal

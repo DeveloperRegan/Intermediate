@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.FileIO.UI", "TPR.FileIO.UI\TPR.FileIO.UI.csproj", "{F4B53879-3E3B-471D-97C6-584A7CDD9D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B53879-3E3B-471D-97C6-584A7CDD9D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B53879-3E3B-471D-97C6-584A7CDD9D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B53879-3E3B-471D-97C6-584A7CDD9D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B53879-3E3B-471D-97C6-584A7CDD9D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://reganstudent.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TPR.FileIO.UI\\TPR.FileIO.UI.csproj
+		SccProjectName1 = TPR.FileIO.UI
+		SccLocalPath1 = TPR.FileIO.UI
+	EndGlobalSection
+EndGlobal

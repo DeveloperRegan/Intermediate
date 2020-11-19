@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.Banking.UI", "TPR.Banking.UI\TPR.Banking.UI.csproj", "{E1C03B9A-8B47-446D-B85D-AC0AA006A70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.Banking.BL", "TPR.Banking.BL\TPR.Banking.BL.csproj", "{E3902D08-DE7F-405B-8C6D-A2E43323DF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPR.Banking.PL", "TPR.Banking.PL\TPR.Banking.PL.csproj", "{2D609F59-D2A1-4C65-B1BB-993125BFC3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C03B9A-8B47-446D-B85D-AC0AA006A70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C03B9A-8B47-446D-B85D-AC0AA006A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C03B9A-8B47-446D-B85D-AC0AA006A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C03B9A-8B47-446D-B85D-AC0AA006A70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3902D08-DE7F-405B-8C6D-A2E43323DF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3902D08-DE7F-405B-8C6D-A2E43323DF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3902D08-DE7F-405B-8C6D-A2E43323DF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3902D08-DE7F-405B-8C6D-A2E43323DF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D609F59-D2A1-4C65-B1BB-993125BFC3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D609F59-D2A1-4C65-B1BB-993125BFC3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D609F59-D2A1-4C65-B1BB-993125BFC3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D609F59-D2A1-4C65-B1BB-993125BFC3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://reganstudent.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TPR.Banking.UI\\TPR.Banking.UI.csproj
+		SccProjectName1 = TPR.Banking.UI
+		SccLocalPath1 = TPR.Banking.UI
+		SccProjectUniqueName2 = TPR.Banking.BL\\TPR.Banking.BL.csproj
+		SccProjectName2 = TPR.Banking.BL
+		SccLocalPath2 = TPR.Banking.BL
+		SccProjectUniqueName3 = TPR.Banking.PL\\TPR.Banking.PL.csproj
+		SccProjectName3 = TPR.Banking.PL
+		SccLocalPath3 = TPR.Banking.PL
+	EndGlobalSection
+EndGlobal
